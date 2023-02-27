@@ -28,7 +28,7 @@ class main1 {
 }
 
 enum size {
-    DOUBLELAEGE(26), LARGE(22), MEDIUM(20), SMALL(18);
+    DOUBLEHEADER(26), LARGE(22), MEDIUM(20), SMALL(18);
 
     private int size;
 
